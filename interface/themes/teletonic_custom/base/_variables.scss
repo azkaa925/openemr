@@ -14,29 +14,30 @@
 // All colors tested for WCAG AA compliance (4.5:1 contrast ratio minimum)
 // ============================================================================
 
-// Primary Medical Blue Palette
-$primary-50: #e8f4f8;   // Lightest medical blue
-$primary-100: #b8dde9;  // Light medical blue
-$primary-200: #87c5da;  // Soft medical blue
-$primary-300: #56adcb;  // Medium medical blue
-$primary-400: #2e9bc0;  // Active medical blue
-$primary-500: #1e7a9a;  // Primary medical blue (main brand)
-$primary-600: #186074;  // Dark medical blue
-$primary-700: #134650;  // Darker medical blue
-$primary-800: #0d2d34;  // Darkest medical blue
-$primary-900: #081419;  // Deep medical blue
+// Primary Pastel Blue Palette (Soft Professional)
+$primary-25: #f8fbff;   // Ultra-light pastel blue
+$primary-50: #f0f8ff;   // Softest pastel blue
+$primary-100: #e6f3ff;  // Very light pastel blue
+$primary-200: #cce7ff;  // Light pastel blue
+$primary-300: #99d6ff;  // Medium pastel blue
+$primary-400: #66c2ff;  // Semi-bright pastel blue
+$primary-500: #87ceeb;  // Primary pastel sky blue (main brand)
+$primary-600: #6bb6db;  // Slightly darker pastel blue
+$primary-700: #5a9bc4;  // Medium pastel blue
+$primary-800: #4a7ea3;  // Darker pastel blue
+$primary-900: #3a6282;  // Deep pastel blue
 
-// Secondary Teal Palette (Complementary)
-$secondary-50: #e6f7f7;   // Lightest teal
-$secondary-100: #b3e8e8;  // Light teal
-$secondary-200: #80d9d9;  // Soft teal
-$secondary-300: #4dcaca;  // Medium teal
-$secondary-400: #26bcbc;  // Active teal
-$secondary-500: #1a9999;  // Primary teal
-$secondary-600: #147676;  // Dark teal
-$secondary-700: #0f5454;  // Darker teal
-$secondary-800: #0a3333;  // Darkest teal
-$secondary-900: #051a1a;  // Deep teal
+// Secondary Pastel Lavender Palette (Complementary Soft)
+$secondary-50: #f8f6ff;   // Softest lavender
+$secondary-100: #f0ebff;  // Very light lavender
+$secondary-200: #e6d9ff;  // Light lavender
+$secondary-300: #d1b3ff;  // Medium lavender
+$secondary-400: #bc8cff;  // Semi-bright lavender
+$secondary-500: #b19cd9;  // Primary pastel lavender
+$secondary-600: #9a86c4;  // Slightly darker lavender
+$secondary-700: #836faf;  // Medium lavender
+$secondary-800: #6d5a94;  // Darker lavender
+$secondary-900: #574479;  // Deep lavender
 
 // Neutral Palette (High Contrast Medical Gray Scale)
 $neutral-50: #fafbfc;    // Pure white alternative
@@ -51,35 +52,47 @@ $neutral-800: #1f2937;   // Darkest gray
 $neutral-900: #111827;   // Near black
 
 // Semantic Color Palette (Medical Context)
-// Success (Healthy/Positive Results)
-$success-50: #ecfdf5;    // Lightest success
-$success-100: #d1fae5;   // Light success
-$success-200: #a7f3d0;   // Lighter success
-$success-500: #10b981;   // Primary success
-$success-600: #059669;   // Dark success
-$success-700: #047857;   // Darker success
+// Success (Healthy/Positive Results) - Soft Pastel Green
+$success-50: #f0fff4;    // Softest mint green
+$success-100: #e6fffa;   // Very light mint
+$success-200: #ccf7e8;   // Light pastel mint
+$success-500: #98d8c8;   // Primary pastel mint
+$success-600: #7cc3b3;   // Slightly darker mint
+$success-700: #66b3a0;   // Medium pastel mint
+$success-800: #52a085;   // Darker pastel mint
 
 // Warning (Caution/Attention Required)
 $warning-50: #fffbeb;    // Lightest warning
 $warning-100: #fef3c7;   // Light warning
+$warning-200: #fde68a;   // Lighter warning
+$warning-300: #fcd34d;   // Light warning
 $warning-500: #f59e0b;   // Primary warning
 $warning-600: #d97706;   // Dark warning
 $warning-700: #b45309;   // Darker warning
+$warning-800: #92400e;   // Darkest warning
+$warning-900: #78350f;   // Deepest warning
 
 // Error/Danger (Critical/Emergency)
 $error-50: #fef2f2;      // Lightest error
 $error-100: #fecaca;     // Light error
+$error-200: #fca5a5;     // Lighter error
+$error-300: #f87171;     // Light error
 $error-500: #ef4444;     // Primary error
 $error-600: #dc2626;     // Dark error
 $error-700: #b91c1c;     // Darker error
+$error-800: #991b1b;     // Very dark error
 $error-900: #7f1d1d;     // Darkest error
 
 // Information (General Info/Notes)
 $info-50: #eff6ff;       // Lightest info
 $info-100: #dbeafe;      // Light info
+$info-200: #bfdbfe;      // Lighter info
+$info-300: #93c5fd;      // Light info
 $info-500: #3b82f6;      // Primary info
 $info-600: #2563eb;      // Dark info
 $info-700: #1d4ed8;      // Darker info
+$info-800: #1e40af;      // Very dark info
+$info-900: #1e3a8a;      // Deepest info
 
 // ============================================================================
 // TYPOGRAPHY SYSTEM
