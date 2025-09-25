@@ -28,6 +28,7 @@ $primary-800: #4a7ea3;  // Darker pastel blue
 $primary-900: #3a6282;  // Deep pastel blue
 
 // Secondary Pastel Lavender Palette (Complementary Soft)
+$secondary-25: #fbfaff;   // Ultra-light lavender
 $secondary-50: #f8f6ff;   // Softest lavender
 $secondary-100: #f0ebff;  // Very light lavender
 $secondary-200: #e6d9ff;  // Light lavender
@@ -40,6 +41,7 @@ $secondary-800: #6d5a94;  // Darker lavender
 $secondary-900: #574479;  // Deep lavender
 
 // Neutral Palette (High Contrast Medical Gray Scale)
+$neutral-25: #fdfdfd;    // Ultra-light gray
 $neutral-50: #fafbfc;    // Pure white alternative
 $neutral-100: #f1f3f5;   // Lightest gray
 $neutral-200: #e4e7ea;   // Light gray
@@ -56,16 +58,20 @@ $neutral-900: #111827;   // Near black
 $success-50: #f0fff4;    // Softest mint green
 $success-100: #e6fffa;   // Very light mint
 $success-200: #ccf7e8;   // Light pastel mint
+$success-300: #b3e6d9;   // Light-medium mint
+$success-400: #9cdcc9;   // Medium mint
 $success-500: #98d8c8;   // Primary pastel mint
 $success-600: #7cc3b3;   // Slightly darker mint
 $success-700: #66b3a0;   // Medium pastel mint
 $success-800: #52a085;   // Darker pastel mint
+$success-900: #3d8a6b;   // Darkest mint
 
 // Warning (Caution/Attention Required)
 $warning-50: #fffbeb;    // Lightest warning
 $warning-100: #fef3c7;   // Light warning
 $warning-200: #fde68a;   // Lighter warning
 $warning-300: #fcd34d;   // Light warning
+$warning-400: #fbbf24;   // Medium warning
 $warning-500: #f59e0b;   // Primary warning
 $warning-600: #d97706;   // Dark warning
 $warning-700: #b45309;   // Darker warning
@@ -77,6 +83,7 @@ $error-50: #fef2f2;      // Lightest error
 $error-100: #fecaca;     // Light error
 $error-200: #fca5a5;     // Lighter error
 $error-300: #f87171;     // Light error
+$error-400: #f56565;     // Medium error
 $error-500: #ef4444;     // Primary error
 $error-600: #dc2626;     // Dark error
 $error-700: #b91c1c;     // Darker error
@@ -88,6 +95,7 @@ $info-50: #eff6ff;       // Lightest info
 $info-100: #dbeafe;      // Light info
 $info-200: #bfdbfe;      // Lighter info
 $info-300: #93c5fd;      // Light info
+$info-400: #60a5fa;      // Medium info
 $info-500: #3b82f6;      // Primary info
 $info-600: #2563eb;      // Dark info
 $info-700: #1d4ed8;      // Darker info
